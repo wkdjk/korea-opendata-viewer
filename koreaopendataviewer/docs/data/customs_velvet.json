@@ -1,0 +1,9 @@
+{
+ "dataset": "customs_velvet",
+ "title": "Customs — deer-velvet trade",
+ "last_updated": null,
+ "columns": [],
+ "labels": {},
+ "rows": [],
+ "note": "Awaiting first data refresh. Run the 'Refresh data' workflow in the repository to populate this dataset."
+}
