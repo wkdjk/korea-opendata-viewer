@@ -1,9 +1,9 @@
 {
  "dataset": "herbal_inspection",
  "title": "Herbal resource — inspection failures",
- "last_updated": null,
  "columns": [],
  "labels": {},
  "rows": [],
- "note": "Awaiting first data refresh. Run the 'Refresh data' workflow in the repository to populate this dataset."
+ "note": "Operation name not found. Set 'operation' in config.yaml.",
+ "last_updated": "2026-07-17T06:19:07+00:00"
 }

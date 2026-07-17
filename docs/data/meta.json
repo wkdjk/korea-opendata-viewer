@@ -1,1 +1,8 @@
-{"datasets": {}, "last_updated": null, "note": "Awaiting first data refresh."}
+{
+ "datasets": {
+  "customs_velvet": 739,
+  "medicine": 5000,
+  "herbal_inspection": 0
+ },
+ "last_updated": "2026-07-17T06:19:07+00:00"
+}
