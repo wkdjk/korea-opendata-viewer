@@ -2512,17 +2512,6 @@
   },
   {
    "period": "2019.02",
-   "country_code": "CN",
-   "country": "China",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 20,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2019.02",
    "country_code": "HK",
    "country": "Hong Kong",
    "hs_code": "0507901190",
@@ -8155,5 +8144,5 @@
   }
  ],
  "note": "Source: Korea Customs Service via data.go.kr. Monthly rows; summary totals removed.",
- "last_updated": "2026-07-26T23:03:19+00:00"
+ "last_updated": "2026-08-02T22:59:24+00:00"
 }
