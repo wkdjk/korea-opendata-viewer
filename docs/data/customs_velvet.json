@@ -2512,6 +2512,17 @@
   },
   {
    "period": "2019.02",
+   "country_code": "CN",
+   "country": "China",
+   "hs_code": "0507901190",
+   "item": "Deer velvet — sliced / dried",
+   "import_weight_kg": 1,
+   "import_value_usd": 20,
+   "export_weight_kg": 0,
+   "export_value_usd": 0
+  },
+  {
+   "period": "2019.02",
    "country_code": "HK",
    "country": "Hong Kong",
    "hs_code": "0507901190",
@@ -6219,17 +6230,6 @@
   },
   {
    "period": "2024.01",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 295,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.01",
    "country_code": "HK",
    "country": "Hong Kong",
    "hs_code": "0507901190",
@@ -6269,17 +6269,6 @@
    "item": "Deer velvet — whole stick / frozen",
    "import_weight_kg": 7764,
    "import_value_usd": 2061441,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.02",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 556,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -6335,17 +6324,6 @@
    "item": "Deer velvet — whole stick / frozen",
    "import_weight_kg": 1390,
    "import_value_usd": 332450,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.03",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 459,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -6417,17 +6395,6 @@
   },
   {
    "period": "2024.04",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 623,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.04",
    "country_code": "HK",
    "country": "Hong Kong",
    "hs_code": "0507901190",
@@ -6467,17 +6434,6 @@
    "item": "Deer velvet — whole stick / frozen",
    "import_weight_kg": 2552,
    "import_value_usd": 693814,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.05",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 818,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -6538,17 +6494,6 @@
   },
   {
    "period": "2024.06",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 315,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.06",
    "country_code": "NZ",
    "country": "New Zealand",
    "hs_code": "0507901110",
@@ -6577,17 +6522,6 @@
    "item": "Deer velvet — whole stick / frozen",
    "import_weight_kg": 525,
    "import_value_usd": 105000,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.07",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 692,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -6648,17 +6582,6 @@
   },
   {
    "period": "2024.08",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 424,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.08",
    "country_code": "HK",
    "country": "Hong Kong",
    "hs_code": "0507901190",
@@ -6687,17 +6610,6 @@
    "item": "Deer velvet — sliced / dried",
    "import_weight_kg": 5,
    "import_value_usd": 4109,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.09",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 0,
-   "import_value_usd": 194,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -6742,17 +6654,6 @@
    "item": "Deer velvet — whole stick / frozen",
    "import_weight_kg": 576,
    "import_value_usd": 126720,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.10",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 497,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -6813,17 +6714,6 @@
   },
   {
    "period": "2024.11",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 0,
-   "import_value_usd": 232,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.11",
    "country_code": "CN",
    "country": "China",
    "hs_code": "0507901190",
@@ -6874,17 +6764,6 @@
    "item": "Deer velvet — whole stick / frozen",
    "import_weight_kg": 4665,
    "import_value_usd": 964871,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2024.12",
-   "country_code": "AU",
-   "country": "Australia",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 1,
-   "import_value_usd": 462,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -7836,17 +7715,6 @@
   },
   {
    "period": "2026.02",
-   "country_code": "HK",
-   "country": "Hong Kong",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 0,
-   "import_value_usd": 0,
-   "export_weight_kg": 623,
-   "export_value_usd": 89887
-  },
-  {
-   "period": "2026.02",
    "country_code": "NZ",
    "country": "New Zealand",
    "hs_code": "0507901110",
@@ -7913,17 +7781,6 @@
   },
   {
    "period": "2026.03",
-   "country_code": "HK",
-   "country": "Hong Kong",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 0,
-   "import_value_usd": 0,
-   "export_weight_kg": 135,
-   "export_value_usd": 2389
-  },
-  {
-   "period": "2026.03",
    "country_code": "NZ",
    "country": "New Zealand",
    "hs_code": "0507901110",
@@ -7965,17 +7822,6 @@
    "import_value_usd": 205,
    "export_weight_kg": 0,
    "export_value_usd": 0
-  },
-  {
-   "period": "2026.04",
-   "country_code": "HK",
-   "country": "Hong Kong",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 0,
-   "import_value_usd": 0,
-   "export_weight_kg": 555,
-   "export_value_usd": 83990
   },
   {
    "period": "2026.04",
@@ -8034,17 +7880,6 @@
   },
   {
    "period": "2026.05",
-   "country_code": "HK",
-   "country": "Hong Kong",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 0,
-   "import_value_usd": 0,
-   "export_weight_kg": 86,
-   "export_value_usd": 21417
-  },
-  {
-   "period": "2026.05",
    "country_code": "NZ",
    "country": "New Zealand",
    "hs_code": "0507901110",
@@ -8100,17 +7935,6 @@
   },
   {
    "period": "2026.06",
-   "country_code": "HK",
-   "country": "Hong Kong",
-   "hs_code": "0507901190",
-   "item": "Deer velvet — sliced / dried",
-   "import_weight_kg": 0,
-   "import_value_usd": 0,
-   "export_weight_kg": 375,
-   "export_value_usd": 11029
-  },
-  {
-   "period": "2026.06",
    "country_code": "NZ",
    "country": "New Zealand",
    "hs_code": "0507901110",
@@ -8144,5 +7968,5 @@
   }
  ],
  "note": "Source: Korea Customs Service via data.go.kr. Monthly rows; summary totals removed.",
- "last_updated": "2026-08-02T22:59:24+00:00"
+ "last_updated": "2026-08-09T22:32:54+00:00"
 }
