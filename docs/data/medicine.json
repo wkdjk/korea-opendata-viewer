@@ -22585,7 +22585,7 @@
   {
    "ITEM_SEQ": 199905780,
    "DATE_YEAR": 2025,
-   "ITEM_NAME": "디아이지에어가스의료용산소",
+   "ITEM_NAME": "에어리퀴드코리아의료용산소",
    "ENTP_NAME": "디아이지에어가스(주)",
    "ENTP_SEQ": 19810011,
    "RESULT_PART": "생산",
@@ -34515,7 +34515,7 @@
   {
    "ITEM_SEQ": 200210297,
    "DATE_YEAR": 2025,
-   "ITEM_NAME": "케프로펜경고제(케토프로펜)",
+   "ITEM_NAME": "케프로펜첩부제(케토프로펜)",
    "ENTP_NAME": "(주)오현파마코푸레이션",
    "ENTP_SEQ": 20161188,
    "RESULT_PART": "수입",
@@ -50024,5 +50024,5 @@
   }
  ],
  "note": "Source: MFDS via data.go.kr.",
- "last_updated": "2026-08-23T22:22:33+00:00"
+ "last_updated": "2026-08-31T00:14:39+00:00"
 }

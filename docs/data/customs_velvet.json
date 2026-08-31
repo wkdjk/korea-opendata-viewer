@@ -6791,6 +6791,17 @@
   },
   {
    "period": "2024.10",
+   "country_code": "KZ",
+   "country": "Kazakhstan",
+   "hs_code": "0507901110",
+   "item": "Deer velvet — whole stick / frozen",
+   "import_weight_kg": 413,
+   "import_value_usd": 68955,
+   "export_weight_kg": 0,
+   "export_value_usd": 0
+  },
+  {
+   "period": "2024.10",
    "country_code": "NZ",
    "country": "New Zealand",
    "hs_code": "0507901110",
@@ -8210,5 +8221,5 @@
   }
  ],
  "note": "Source: Korea Customs Service via data.go.kr. Monthly rows; summary totals removed.",
- "last_updated": "2026-08-23T22:21:45+00:00"
+ "last_updated": "2026-08-31T00:13:43+00:00"
 }
