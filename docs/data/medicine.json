@@ -6385,7 +6385,7 @@
   {
    "ITEM_SEQ": 198802331,
    "DATE_YEAR": 2025,
-   "ITEM_NAME": "앤티브액(L-아르기닌염산염)",
+   "ITEM_NAME": "앤티브액(L-아르기닌염산염)(수출용)",
    "ENTP_NAME": "조아제약(주)",
    "ENTP_SEQ": 19640007,
    "RESULT_PART": "생산",
@@ -50024,5 +50024,5 @@
   }
  ],
  "note": "Source: MFDS via data.go.kr.",
- "last_updated": "2026-09-20T23:53:22+00:00"
+ "last_updated": "2026-09-28T00:20:49+00:00"
 }
