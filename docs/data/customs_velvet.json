@@ -6989,17 +6989,6 @@
   },
   {
    "period": "2025.01",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 3351,
-   "import_value_usd": 645770,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2025.01",
    "country_code": "US",
    "country": "United States",
    "hs_code": "0507901190",
@@ -7065,17 +7054,6 @@
    "export_value_usd": 0
   },
   {
-   "period": "2025.02",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 5215,
-   "import_value_usd": 1003906,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
    "period": "2025.03",
    "country_code": "AU",
    "country": "Australia",
@@ -7120,17 +7098,6 @@
    "export_value_usd": 0
   },
   {
-   "period": "2025.03",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 7569,
-   "import_value_usd": 1290455,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
    "period": "2025.04",
    "country_code": "AU",
    "country": "Australia",
@@ -7171,17 +7138,6 @@
    "item": "Deer velvet — sliced / dried",
    "import_weight_kg": 6,
    "import_value_usd": 4470,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2025.04",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 6172,
-   "import_value_usd": 979564,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -7253,17 +7209,6 @@
   },
   {
    "period": "2025.05",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 1702,
-   "import_value_usd": 328486,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2025.05",
    "country_code": "US",
    "country": "United States",
    "hs_code": "0507901190",
@@ -7314,17 +7259,6 @@
    "item": "Deer velvet — sliced / dried",
    "import_weight_kg": 7,
    "import_value_usd": 5095,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2025.06",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 900,
-   "import_value_usd": 144000,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -7384,17 +7318,6 @@
    "export_value_usd": 0
   },
   {
-   "period": "2025.07",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 1484,
-   "import_value_usd": 252277,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
    "period": "2025.08",
    "country_code": "CN",
    "country": "China",
@@ -7424,17 +7347,6 @@
    "item": "Deer velvet — sliced / dried",
    "import_weight_kg": 7,
    "import_value_usd": 5198,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2025.08",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 706,
-   "import_value_usd": 112960,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -7506,17 +7418,6 @@
   },
   {
    "period": "2025.09",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 600,
-   "import_value_usd": 106493,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2025.09",
    "country_code": "US",
    "country": "United States",
    "hs_code": "0507901190",
@@ -7567,17 +7468,6 @@
    "item": "Deer velvet — sliced / dried",
    "import_weight_kg": 7,
    "import_value_usd": 3601,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2025.10",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 2297,
-   "import_value_usd": 546890,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -7644,17 +7534,6 @@
    "item": "Deer velvet — sliced / dried",
    "import_weight_kg": 7,
    "import_value_usd": 6060,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2025.11",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 2050,
-   "import_value_usd": 468144,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -7743,17 +7622,6 @@
    "item": "Deer velvet — sliced / dried",
    "import_weight_kg": 5007,
    "import_value_usd": 196681,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2025.12",
-   "country_code": "RU",
-   "country": "Russia",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 5242,
-   "import_value_usd": 1047114,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -8254,5 +8122,5 @@
   }
  ],
  "note": "Source: Korea Customs Service via data.go.kr. Monthly rows; summary totals removed.",
- "last_updated": "2026-09-28T00:19:52+00:00"
+ "last_updated": "2026-10-05T00:29:50+00:00"
 }
