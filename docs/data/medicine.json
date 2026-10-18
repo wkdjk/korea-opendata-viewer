@@ -49065,7 +49065,7 @@
   {
    "ITEM_SEQ": 200501564,
    "DATE_YEAR": 2025,
-   "ITEM_NAME": "파마가바펜틴캡슐(가바펜틴)",
+   "ITEM_NAME": "파마가바펜틴캡슐300밀리그램(가바펜틴)",
    "ENTP_NAME": "(주)한국파마",
    "ENTP_SEQ": 19600004,
    "RESULT_PART": "생산",
@@ -50024,5 +50024,5 @@
   }
  ],
  "note": "Source: MFDS via data.go.kr.",
- "last_updated": "2026-10-12T01:03:25+00:00"
+ "last_updated": "2026-10-18T23:59:09+00:00"
 }
