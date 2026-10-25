@@ -8115,7 +8115,7 @@
   {
    "ITEM_SEQ": 199100042,
    "DATE_YEAR": 2025,
-   "ITEM_NAME": "신세프주0.75그램(세푸록심나트륨)",
+   "ITEM_NAME": "신세프주0.75그램(세푸록심나트륨)(수출용)",
    "ENTP_NAME": "신풍제약(주)",
    "ENTP_SEQ": 19620001,
    "RESULT_PART": "생산",
@@ -50024,5 +50024,5 @@
   }
  ],
  "note": "Source: MFDS via data.go.kr.",
- "last_updated": "2026-10-18T23:59:09+00:00"
+ "last_updated": "2026-10-25T23:53:27+00:00"
 }

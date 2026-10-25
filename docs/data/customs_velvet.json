@@ -179,17 +179,6 @@
    "export_value_usd": 0
   },
   {
-   "period": "2016.02",
-   "country_code": "US",
-   "country": "United States",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 0,
-   "import_value_usd": 214,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
    "period": "2016.03",
    "country_code": "AU",
    "country": "Australia",
@@ -384,17 +373,6 @@
    "item": "Deer velvet — whole stick / frozen",
    "import_weight_kg": 920,
    "import_value_usd": 211600,
-   "export_weight_kg": 0,
-   "export_value_usd": 0
-  },
-  {
-   "period": "2016.05",
-   "country_code": "US",
-   "country": "United States",
-   "hs_code": "0507901110",
-   "item": "Deer velvet — whole stick / frozen",
-   "import_weight_kg": 0,
-   "import_value_usd": 73,
    "export_weight_kg": 0,
    "export_value_usd": 0
   },
@@ -8309,5 +8287,5 @@
   }
  ],
  "note": "Source: Korea Customs Service via data.go.kr. Monthly rows; summary totals removed.",
- "last_updated": "2026-10-18T23:58:05+00:00"
+ "last_updated": "2026-10-25T23:50:24+00:00"
 }
